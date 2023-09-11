@@ -3,18 +3,18 @@ const orders = [
         productName: 'PHP Tuturial',
         productNumber: 46585,
         paymentStatus: 'Due',
-        starus: 'Pending'
+        status: 'Pending'
     },
     {
         productName: 'JavaScript Tuturial',
         productNumber: 626978,
         paymentStatus: 'Refunded',
-        starus: 'Declined'
+        status: 'Declined'
     },
     {
         productName: 'CSS Tuturial',
         productNumber: 491698,
         paymentStatus: 'Paid',
-        starus: 'Active'
+        status: 'Active'
     },
 ];
